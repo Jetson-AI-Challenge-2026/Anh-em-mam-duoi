@@ -7,7 +7,7 @@ Mã nguồn dự thi **Jetson AI Racer Challenge 2026** của đội **AnhEmMamD
 Xây dựng xe tự hành trên **JetRacer/Jetson Nano**, sử dụng một camera để hoàn thành hai nội dung:
 
 - **Speed Track:** bám làn ổn định, hoàn thành vòng đua nhanh và duy trì tối thiểu 20 FPS.
-- **Smart City:** bám làn, nhận biết đèn giao thông và biển báo để xử lý đúng tình huống.
+- **Smart City:** bám làn, nhận biết đèn giao thông và biển báo để xử lý đúng tình huống **đang phát triển, chưa hoàn thiện**.
 
 ## Giải pháp
 
