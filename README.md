@@ -1,3 +1,4 @@
+
 # JetRacer Baseline — Jetson AI Racer Challenge 2026
 
 Baseline chạy được cho hai bài thi **Speed Track** và **Smart City**.
@@ -295,3 +296,4 @@ collector = launch(source_kind='video', video_path='raw_camera.avi',
 | Driver phần cứng | **Đã chốt: PCA9685 `0x40` trực tiếp qua ServoKit**, channel lái/ga `0/1`, có emergency lock + watchdog |
 
 Hai việc chặn tiến độ, theo thứ tự: **(1)** quay video sa bàn để dev offline, **(2)** thu dataset biển báo.
+
